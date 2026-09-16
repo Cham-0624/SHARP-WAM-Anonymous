@@ -1,5 +1,7 @@
 # SHARP-WAM: Sparse Hierarchical Attention with Probe Tokens for Bounded-Context World Action Modeling
 
+[<img src="https://img.shields.io/badge/Project-SHARP--WAM-blue">](https://cham-0624.github.io/SHARP-WAM.github.io/) [<img src="https://img.shields.io/badge/License-MIT-green.svg">](LICENSE)
+
 [English](README.md) | [中文](README_zh.md)
 
 SHARP-WAM is a bounded-context world action model built around learnable probe tokens, a fixed-capacity KV set, and hierarchical sparse attention.

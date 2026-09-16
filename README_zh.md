@@ -1,5 +1,7 @@
 # SHARP-WAM：用于有界上下文世界动作建模的带探针 Token 稀疏层级注意力
 
+[<img src="https://img.shields.io/badge/Project-SHARP--WAM-blue">](https://cham-0624.github.io/SHARP-WAM.github.io/) [<img src="https://img.shields.io/badge/License-MIT-green.svg">](LICENSE)
+
 [English](README.md) | [中文](README_zh.md)
 
 SHARP-WAM 是一个有界上下文世界动作模型，其正式设计包含可学习探针 Token、固定容量 KV 集和层级稀疏注意力。
