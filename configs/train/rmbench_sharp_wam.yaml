@@ -1,0 +1,17 @@
+# Public RMBench recipe for the final SHARP-WAM model.
+experiment: sharp_wam
+dataset_root: null
+output_dir: null
+resume: null
+
+data:
+  variable_episode_length: true
+  max_decision_steps: null
+
+training:
+  seed: 42
+  per_device_batch_size: 4
+  learning_rate: 1.0e-4
+  weight_decay: 1.0e-2
+  max_steps: null
+  num_epochs: null

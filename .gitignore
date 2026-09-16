@@ -1,0 +1,31 @@
+# Local model assets and datasets
+checkpoints/
+data/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Experiment products
+runs/
+evaluate_results/
+outputs/
+logs/
+wandb/
+
+# Python and editor state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.egg-info/
+build/
+dist/
+.DS_Store
+.vscode/
+
+# Local configuration and credentials
+.env
+credentials/
+*.secret

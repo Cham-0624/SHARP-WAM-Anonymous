@@ -1,0 +1,8 @@
+# Generic RMBench evaluation contract. No episode-specific alignment data is used.
+checkpoint: null
+dataset_root: null
+output_dir: null
+task_name: null
+num_episodes: 100
+max_sim_steps: null
+seed: 42
